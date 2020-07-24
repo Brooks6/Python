@@ -1,1 +1,2 @@
-
+#reading files
+open("employee.txt", "r") #only want to read
