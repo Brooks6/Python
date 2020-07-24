@@ -60,15 +60,3 @@ print(friends2)
 #tuples, a type of data structure
 coordinates = (4, 5)#list(),the tuples can not be changed
 print(coordinates[0])
-
-
-
-
-
-
-
-
-
-
-
-
