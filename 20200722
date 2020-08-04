@@ -38,8 +38,8 @@ print(result)
 friends = ["Kevin", 2, false]
 print(friends)
 print(friends[-1])#the outcome is false, from right to left
-print(friends[1:])#output: 2, false
-print(friends[0:1])#output: Kevin, 2
+print(friends[1:])#outcome: 2, false
+print(friends[0:1])#outcome: Kevin, 2
 
 #lists functions
 lucky_numbers = [4, 8, 15, 16, 23, 42]
